@@ -2,7 +2,7 @@
     "title": "I am Robert",
     "path_prefix": "/",
     "layout_style": "simple",
-    "palette": "green",
+    "palette": "blue",
     "header": {
         "title": "Stackbit Fresh",
         "tagline": "Header Tagline",
