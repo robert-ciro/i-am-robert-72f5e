@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
+    title: 'Hi, I''m Stackbit Fresh.'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
@@ -20,6 +20,13 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
