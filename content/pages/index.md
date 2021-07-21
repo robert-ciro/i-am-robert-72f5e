@@ -4,14 +4,22 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi 👋, I'm Robert."
+    title: "Hi \U0001F44B, I'm Robert."
     content: >-
-      My mission as a software engineer is not only to try to solve problems but to help to identify the challenge and provide the best solution, I love to make things that make a difference.
+      My mission as a software engineer is not only to try to solve problems but
+      to help to identify the challenge and provide the best solution, I love to
+      make things that make a difference.
     actions:
       - label: Contact Me
         url: /contact
         style: button
-
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
