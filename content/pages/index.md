@@ -21,17 +21,17 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Hi 👋, I'm Robert."
+  description: A enthusiastic software engineer transforming ideas into solutions that matter. 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Welcome to my site
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: A enthusiastic software engineer transforming ideas into solutions that matter.
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
