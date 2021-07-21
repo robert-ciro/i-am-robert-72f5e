@@ -7,6 +7,14 @@ sections:
     title: 'Hola, I am Robert, Great to have you here'
     content: |
       I love converting problems into solutions.
+  - section_id: recent-posts
+    type: section_posts
+    title: Recent Posts
+    posts_number: 4
+    actions:
+      - label: View Blog
+        url: blog/index.html
+        style: button
   - section_id: about
     type: section_content
     title: About
@@ -17,14 +25,6 @@ sections:
     actions:
       - label: Contact Me
         url: /contact
-        style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: Recent Posts
-    posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
         style: button
 seo:
   title: Stackbit Fresh Theme
