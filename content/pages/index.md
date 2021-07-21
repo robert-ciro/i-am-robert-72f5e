@@ -16,7 +16,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: icon
-        icon_class: pinterest
+        icon_class: facebook
         new_window: false
         no_follow: false
         type: action
