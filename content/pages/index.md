@@ -13,7 +13,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: Test
         url: '#'
         style: icon
         icon_class: facebook
