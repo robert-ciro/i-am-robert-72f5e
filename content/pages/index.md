@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hola, I am Robert, Great to have you here'
     content: |
-      Converting problems into solutions.
+      Me Converting problems into solutions.
   - section_id: about
     type: section_content
     title: About
