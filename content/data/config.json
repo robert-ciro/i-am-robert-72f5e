@@ -8,7 +8,7 @@
         "tagline": "Love creating things with code",
         "profile_img": "/images/profile-photo.jpg",
         "profile_img_alt": "Author avatar",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
