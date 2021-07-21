@@ -4,20 +4,14 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola, I am Robert, Great to have you here'
-    content: |
-      I love converting problems into solutions.
-  - section_id: about
-    type: section_content
-    title: About
-    content: >
-      My mission as a software engineer is not only to try to solve problems but
-      to help to identify the challenge and provide the best solution, I love to
-      make things that make a difference.
+    title: "Hi 👋, I'm Robert."
+    content: >-
+      My mission as a software engineer is not only to try to solve problems but to help to identify the challenge and provide the best solution, I love to make things that make a difference.
     actions:
       - label: Contact Me
         url: /contact
         style: button
+
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
