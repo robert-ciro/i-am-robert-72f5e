@@ -2,7 +2,7 @@
     "title": "I am Robert",
     "path_prefix": "/",
     "layout_style": "overflow",
-    "palette": "orange",
+    "palette": "violet",
     "header": {
         "title": "Robert",
         "tagline": "Love creating things with code",
