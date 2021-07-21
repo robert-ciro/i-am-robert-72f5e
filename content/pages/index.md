@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, I am Robert'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "My mission as a software engineer is not only to try to solve problems but to help to identify the challenge and provide the right, or a better way of doing things, summarizing I want to make things that make a difference \U0001F604\n\n\n"
   - section_id: about
     type: section_content
     title: About
