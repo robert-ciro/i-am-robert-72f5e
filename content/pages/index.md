@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola, I am Robert, Great to having you here'
+    title: 'Hola, I am Robert, Great to have you here'
     content: |
       Converting problems into solutions.
   - section_id: about
