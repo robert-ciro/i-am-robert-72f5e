@@ -5,10 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, I am Robert'
-    content: >
-      My mission as a software engineer is not only to try to solve problems but
-      to help to identify the challenge and provide the best solution, I love to
-      make things that make a difference. 
+    content: |
+      Converting problems into solutions.
   - section_id: about
     type: section_content
     title: About
