@@ -21,7 +21,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Hi 👋, I'm Robert."
+  title: Hi 👋, I'm Robert.
   description: A enthusiastic software engineer transforming ideas into solutions that matter. 
   extra:
     - name: 'og:type'
@@ -40,9 +40,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Hi 👋, I'm Robert.
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: A enthusiastic software engineer transforming ideas into solutions that matter. 
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
